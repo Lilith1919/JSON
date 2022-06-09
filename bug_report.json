@@ -1,1 +1,20 @@
+{
+   "bag_report":[
 
+{ 
+
+"summary": "The slider picture is not fully displayed at the slider after clicking the 'Results' tab",
+"description": "The slider picture is not fully displayed at the slider after clicking the 'Results' tab",
+"steps_to_reproduce":
+[
+ "open the site http://clgcms.qa-testlab.com",
+ "click the 'Results' tab of the main menu",
+ "take a look at the slider pictures"
+],
+
+"actual_result": "The slider picture is not fully displayed at the slider after clicking the 'Results' tab",
+"expected_result": "The slider picture is fully displayed at the slider after clicking the 'Results' tab"
+
+}
+]
+}
