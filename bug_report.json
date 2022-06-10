@@ -7,7 +7,7 @@
 "description": "The slider picture is not fully displayed at the slider after clicking the 'Results' tab",
 "steps_to_reproduce":
 [
- "open the site http://clgcms.qa-testlab.com",
+ "open the site http://clgcms.testlab.com",
  "click the 'Results' tab of the main menu",
  "take a look at the slider pictures"
 ],
